@@ -4,7 +4,7 @@
   I'm a frontend developer
 </p>
 
-<h4>🔭  I’m currently working with ...</h4>
+<h4>💻  I’m currently working with ...</h4>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
