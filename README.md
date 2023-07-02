@@ -22,4 +22,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<h1 align='left'> Проекты: </h1>
+1) Todushka (Fullstack CRUD app with simple server requests) - https://todushka-app.netlify.app/
+2) Online Store (mockapi instead of server) - https://bayali12.github.io/sneakers/
+
 <h3> Telegram - @yakhikhanov </h3>
