@@ -23,7 +23,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <h1 align='left'>Pet projects: </h1>
-- Todushka (Fullstack CRUD app with simple server requests) - https://todushka-app.netlify.app/
-- Online Store (mockapi instead of server) - https://bayali12.github.io/sneakers/
-
+<ul>
+<li>Todushka (Fullstack CRUD app with simple server requests) - https://todushka-app.netlify.app/</li>
+<li> Online Store (mockapi instead of server) - https://bayali12.github.io/sneakers/ </li>
+</ul>
 <h3> Telegram - @yakhikhanov </h3>
