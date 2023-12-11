@@ -33,6 +33,6 @@
 <li> Online Store (mockapi instead of server) - https://bayali12.github.io/sneakers/ </li>
 </ul>
 
-[Test tasks(using various UI libraries, react, redux(toolkit), typescript with pagination, search, sort, tabular data, lists and much more)](https://github.com/Bayali12/TestTasks/blob/main/README.md)
+[Test tasks - (using various UI libraries, react, redux(toolkit), typescript with pagination, search, sort, tabular data, lists and much more)](https://github.com/Bayali12/TestTasks/blob/main/README.md)
 
 <h3> Telegram - @yakhikhanov </h3>
