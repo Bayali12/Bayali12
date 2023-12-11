@@ -31,6 +31,6 @@
 <ul>
 <li> Todushka (Fullstack CRUD app with simple server requests) - https://todushka-app.netlify.app/</li>
 <li> Online Store (mockapi instead of server) - https://bayali12.github.io/sneakers/ </li>
-<li> Test tasks(using various UI libraries, react, redux(toolkit), typescript with pagination, search, sort, tabular data, lists and much more) </li>
+<li> ![Test tasks(using various UI libraries, react, redux(toolkit), typescript with pagination, search, sort, tabular data, lists and much more)](https://github.com/Bayali12/TestTasks/blob/main/README.md) </li>
 </ul>
 <h3> Telegram - @yakhikhanov </h3>
